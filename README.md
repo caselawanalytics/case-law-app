@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/79349354.svg)](https://zenodo.org/badge/latestdoi/79349354)
 
 # Network visualization for Case Law Analytics
-The visualization is shown at [https://nlesc.github.io/case-law-app/](https://nlesc.github.io/case-law-app/).
+The visualization is shown at [https://caselawanalytics.github.io/case-law-app/](https://nlesc.github.io/case-law-app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
@@ -23,7 +23,7 @@ To run the application:
 
 
 ## Data format
-It is possible to upload a json file with a network to the visualization. This json file can be created with the [caselawnet Python application](https://github.com/NLeSC/CaseLawAnalytics). 
+It is possible to upload a json file with a network to the visualization. This json file can be created with the [caselawnet Python application](https://github.com/caselawanalytics/CaseLawAnalytics). 
 
 ### Specification
 This should be the structure of the JSON file (containing one example node):
